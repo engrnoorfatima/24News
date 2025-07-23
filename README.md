@@ -25,7 +25,7 @@ A responsive and modern news application built with React. It fetches real-time 
 ---
 
 ## 📸 Screenshots
-![24News App Screenshot](./public/24news.jpg)
+![24News App Screenshot](./assets/24news.jpg)
 
 ## 🔧 Installation
 
