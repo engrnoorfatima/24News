@@ -31,3 +31,7 @@ git clone https://github.com/engrnoorfatima/24news.git
 cd news24
 npm install
 npm start
+
+
+## 📸 Screenshots
+![24News App Screenshot](./public/24news.jpg)
