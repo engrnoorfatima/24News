@@ -24,6 +24,9 @@ A responsive and modern news application built with React. It fetches real-time 
 
 ---
 
+## 📸 Screenshots
+![24News App Screenshot](./public/24news.jpg)
+
 ## 🔧 Installation
 
 ```bash
@@ -31,7 +34,3 @@ git clone https://github.com/engrnoorfatima/24news.git
 cd news24
 npm install
 npm start
-
-
-## 📸 Screenshots
-![24News App Screenshot](./public/24news.jpg)
